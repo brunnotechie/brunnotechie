@@ -1,7 +1,7 @@
 
 ### Olá eu sou o Brunno Freitas!🤙
 
-![Brunno GitHub stats](https://github-readme-stats.vercel.app/api?username=brunnotechie&show_icons=true&theme=dark)
+![Brunno GitHub stats](https://github-readme-stats.vercel.app/api?username=brunno&show_icons=true&theme=dark)
 
 #### Conhecimento nas tecnologias
 
