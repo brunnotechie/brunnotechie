@@ -22,7 +22,7 @@
 
 ##### Sou um líder apaixonado por tecnologia com mais de 15 anos de experiência, especializado em Cloud, DevOps, governança, infraestrutura de TI e gestão de projetos de TI.
 
-##### Gerente de TI | Cloud & DevOps | Infraestrutura de TI | Transformação Digital | FinOps | AWS, Azure, GCP, OCI & GitHub | Gestão de Projetos | Metodologias Ágeis | MIT
+##### Gerente de TI | Cloud & DevOps | Infraestrutura de TIC | AWS, Azure, OCI & GitHub | FinOps | Gestão de Projetos | Metodologias Ágeis | Entusiasta IA | MIT
 
 ##### Midias sociais 
 
