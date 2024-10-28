@@ -17,7 +17,7 @@
     <img align="center" alt="python" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />      
     <img align="center" alt="linux" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
     <img align="center" alt="windows" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
-                  
+    
 </div><br/>
 
 ##### Sou um líder apaixonado por tecnologia com mais de 15 anos de experiência, especializado em Cloud, DevOps, governança, infraestrutura de TI e gestão de projetos de TI.
@@ -33,3 +33,11 @@
 ##### Contato
 
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunno.techie@gmail.com)
+ 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{brunnotechie}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
